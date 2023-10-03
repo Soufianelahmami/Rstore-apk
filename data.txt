@@ -19,7 +19,7 @@
         {
             "image_link": "https://iili.io/JJyVodu.webp",
             "title": "Rstore apk 1",
-            "text_Content_": "It seems like there might be a slight typo in your request, as Rstore apk doesn't refer to a specific concept or application that I'm aware of up to my last knowledge update in September 2021. However, if you're referring to an application or service related to "restore" or recovery, I can provide you with some general ideas"
+            "text_Content_": "It seems like there might be a slight typo in your request, as Rstore apk doesn't refer to a specific concept or application that I'm aware of up to my last knowledge update in September 2021. However, if you're referring to an application or service related to restore or recovery, I can provide you with some general ideas"
         },
         {
             "image_link": "https://iili.io/JJyVB19.webp",
